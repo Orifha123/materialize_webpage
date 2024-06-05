@@ -1,0 +1,45 @@
+{
+    "user": {
+        "fullName": "0rifha matshidza",
+        "photo": "public/picture.JPG"
+    },
+    "city": {
+        "name": "cape town",
+        "photo":"./new-york-city.jpeg",
+        "description": "Iconic Landmarks: NYC is home to world-famous landmarks like the Statue of Liberty, Times Square, Central Park, the Empire State Building, and the Brooklyn Bridge. Cultural Diversity: It's a melting pot of cultures, offering a diverse array of cuisines, languages, and experiences from around the globe. Arts and Entertainment: From Broadway shows to off-Broadway theaters, museums like the Metropolitan Museum of Art and the Museum of Modern Art, and music venues catering to every taste, NYC is a cultural hub. Shopping: From luxury boutiques on Fifth Avenue to eclectic shops in neighborhoods like SoHo and Greenwich Village, NYC is a shopper's paradise. Dining Scene: With thousands of restaurants serving cuisine from every corner of the world, NYC offers unparalleled dining experiences."
+    },
+    "foreignLanguage": {
+        "language": "english",
+        "phrases": "french",
+        "englishPhrase_1": "how are you?",
+        "foreignLanguage_1": "comment allez-vous?",
+        "englishPhrase_2": "we are leaving.",
+        "foreignLanguage_2": "Nous partons."
+    },
+    "favouriteSubjects": {
+        "name_1": "Agile Rapid Skills Acquisition",
+        "image_1":"./agile.png",
+        "description_1": "I love this subject becouse it helps me understand different tools to work remote and how to commuicate with other colegues in different location.",
+        "name_2": "full stack web development",
+        "image_2":"./stack.png",
+        "description_2": "Because it allows me to understand both front-end and back-end aspects of web development, giving me a comprehensive skill set to build dynamic and interactive web applications.",
+        "name_3": "Engineering business systems for 4IR",
+        "image_3":"./engeenering.jpeg",
+        "description_3": "It equips me with the knowledge and skills needed to navigate the intersection of engineering and business in an era characterized by rapid technological advancements."
+    },
+    "historicalPlaces": {
+        "name_1":"Church Square, spin street",
+        "image_1":"images/green.jpeg",
+        "description_1":"Cultural events. Shopping and dining.  ",
+        "name_2":"Green Market Square",
+        "image_2":"images/market.jpeg",
+        "description_2":"Atmosphere. Shopping. becouse the market offers a glimpse into South African culture",
+        "name_3":"Iziko Museum",
+        "image_3":"images/mesium.jpeg",
+        "description_3":"becouse it features exhibits on natural history, including displays of fossils. Cultural events and exhibitions: The museums regularly host temporary exhibitions. Research opportunities: Iziko Museums serve as valuable research institutions."
+    },
+    "contacts":{
+        "contact":"0724161622",
+        "email":"orifhamatshidze@gmail.com"
+    }
+}
