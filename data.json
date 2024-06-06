@@ -4,7 +4,7 @@
         "photo": "public/picture.JPG"
     },
     "city": {
-        "name": "cape town",
+        "name": "new-york-city",
         "photo":"./new-york-city.jpeg",
         "description": "Iconic Landmarks: NYC is home to world-famous landmarks like the Statue of Liberty, Times Square, Central Park, the Empire State Building, and the Brooklyn Bridge. Cultural Diversity: It's a melting pot of cultures, offering a diverse array of cuisines, languages, and experiences from around the globe. Arts and Entertainment: From Broadway shows to off-Broadway theaters, museums like the Metropolitan Museum of Art and the Museum of Modern Art, and music venues catering to every taste, NYC is a cultural hub. Shopping: From luxury boutiques on Fifth Avenue to eclectic shops in neighborhoods like SoHo and Greenwich Village, NYC is a shopper's paradise. Dining Scene: With thousands of restaurants serving cuisine from every corner of the world, NYC offers unparalleled dining experiences."
     },

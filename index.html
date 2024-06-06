@@ -22,39 +22,35 @@
                 <h1 class="center-align">Personal Webpage</h1>
             </div>
             <div class="col l4 m6 s12" id="fullName">{{user.fullName}}</div>
-            <div class="col l4 m6 s12"><img src=".\picture.JPG" width="200" alt="matshidza orifha" class="images">
+            <div class="col l4 m6 s12"><img src="./picture.JPG" width="200" alt="matshidza orifha" class="images">
             </div>
         </div>
     </header>
-    <div class="row center-align #f1f8e9 light-green lighten-5">
+    <div class="row center-align #d7ccc8 brown lighten-4">
         <h1 class="center-align">My Favourite City</h1>
         <h1>{{city.name}}</h1>
-        <div class="col l4 m6 s12"><img src="{{city.photo}}" width="300" alt="new-york-city"></div>
+        <div class="col l4 m6 s12"><img src="./new-york-city.jpeg" width="300" alt="new-york-city"></div>
         <div class="col l4 m6 s12">
             <p>{{city.description}}</p>
         </div>
     </div>
     <style>
         body {
-            background-image: url(images/table-mountain-feature-onsite-2.webp);
+            background-color: lightsteelblue;
         }
 
         @media (max-width: 600px) {
-            .mid-text {
+            .zig {
                 float: right !important;
             }
         }
 
-        .mid-text-img {
+        .zig-img {
             float: left !important;
-        }
-
-        p {
-            font-size: 15px;
         }
     </style>
 
-    <div class="">
+    <div class="#ffd180 orange accent-1">
         <table>
 
             <thead>
@@ -95,9 +91,9 @@
         <div class="col l4 m4 s12">
             <div class="row">
                 <h3 class="center-align">{{favouriteSubjects.name_2}}</h3>
-                <p class="col s6 mid-text">{{favouriteSubjects.description_2}}</p>
+                <p class="col s6 zig">{{favouriteSubjects.description_2}}</p>
                 <img src="{{favouriteSubjects.image_2}}" width="150" alt="{{favouriteSubjects.image_2}}"
-                    class="images col s6 mid-text-img">
+                    class="images col s6 zig-img">
             </div>
         </div>
         <div class="col l4 m4 s12">
