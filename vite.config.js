@@ -1,12 +1,10 @@
-import { defineConfig } from 'vite';
+
 import handlebars from 'vite-plugin-handlebars';
 import data from './data.json';
 
-export default defineConfig({
-    base: '/responsive_webpages/',
-    plugins: [
-        handlebars({
-            context: data
-        })
-    ]
-});
+export default {
+  base : '/responsive_cv/',   // <-- add this
+  plugins: [handlebars({
+      context : data   // add this
+  })],
+};
